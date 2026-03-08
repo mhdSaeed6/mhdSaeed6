@@ -18,7 +18,7 @@
 😄 Pronouns: He/Him
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-saeed-alhomsi-13499b369/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-saeed-alhomsi/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=mohamadsaeedalhomsi@gmail.com)
 
 # 💻 Tech Stack:
