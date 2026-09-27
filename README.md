@@ -43,13 +43,6 @@ A dedicated Backend Developer specializing in the **.NET Ecosystem**. I focus on
 
 ---
 
-### 📊 GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhdSaeed6&show_icons=true&theme=radical&count_private=true" alt="Mohamad Saeed's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdSaeed6&layout=compact&theme=radical&hide=html,css" alt="Top Languages" height="170" />
-</p>
-
 ![](https://github-profile-trophy.vercel.app/?username=mhdSaeed6&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
